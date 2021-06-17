@@ -4,4 +4,4 @@
 ## Technologies used:
 1. ReactJS - FrontEnd
 2. NodeJS - BackEnd
-3. GraphQL - API System
+3. GraphQL APIs
